@@ -1,3 +1,3 @@
 # Assignments
 
-sequence
+mapping
