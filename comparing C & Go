@@ -1,0 +1,19 @@
+Comparing C,C++ & go
+
+c: one of the most widely used procedural programming language of all times that is function driven language
+Go:An open source programming language that makes it easy to build,simple,reliable and efficient software
+	-High performance is the top reason why developers choose Go.
+	-Go is expressive,concice,clean,and efficient.
+	-Its concurancy mechanisum make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction.
+	-Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection.
+	-Its a fast, statistically typed, compiled language that feels like a dynamically typed, interpreted language.
+	-Go is a procedural and concurrent programming language which does not contain classes with constructors and deconstructors.
+C++:Object-Oriented programming language which contain classes with constructors and deconstructors.
+
+
+Go similar to C++??
+	*Go is statically typed, compiles and general purpose programming language much like C++
+	*Compiler for other language was originally written in C but is now written in Go as well, which keeps the language self hosted
+
+Go similar to C?
+	*Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and Csp-style concurrancy.
