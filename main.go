@@ -1,22 +1,25 @@
 package main
 
-import (
-	"fmt"
+import "github.com/prasannaraavi/assignments/datatypes"
 
-	"github.com/prasannaraavi/assignments/variable"
-)
 
 func main() {
 
-	variable.VarDeclaration()
-	
-	variable.ScopeDeclaration()
-	
-	variable.NextFunc()      //Functional scope
+	/*variable definition and declaration*/
 
-	variable.Scope1Func()    //package level scope
+	//variable.VarDeclaration()
 
-	fmt.Println("pkgvariable3:", variable.Pkgvariable3)  //global scope
+	/*scopes*/
 	
+	//variable.ScopeDeclaration()
+	
+	//variable.NextFunc()      //Functional scope
 
+	//variable.Scope1Func()    //package level scope
+
+	//fmt.Println("pkgvariable3:", variable.Pkgvariable3)  //global scope
+	
+	/*DataTypes*/
+
+	datatypes.DataType()
 }
