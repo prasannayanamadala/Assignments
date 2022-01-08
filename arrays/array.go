@@ -15,5 +15,6 @@ func ArrayDeclaration() {
 	a[4] = 5
 
 	fmt.Println(a)
+	fmt.Println(a[4] , a[2] , a[0])
 	fmt.Println(len(a)) //length of array 
 }
