@@ -6,7 +6,7 @@ func ArrayDeclaration() {
  /*array : An array is a systematic arrangement of 
  similar objects, usually in rows and columns */
 	
- var a [5] int     //same datatype and same objects or products
+ var a [8] int     //same datatype and same objects or products
 
 	a[0] = 1
 	a[1] = 2
