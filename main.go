@@ -1,6 +1,9 @@
 package main
 
-import "github.com/prasannaraavi/assignments/datatypes"
+import (
+	"github.com/prasannaraavi/assignments/arrays"
+	//"github.com/prasannaraavi/assignments/datatypes"
+)
 
 
 func main() {
@@ -21,5 +24,13 @@ func main() {
 	
 	/*DataTypes*/
 
-	datatypes.DataType()
+	//datatypes.DataType()
+	//datatypes.StringImmutable()
+	
+	/* constants */
+	
+	//datatypes.ConstantDefine()
+	//datatypes.PkgConst()
+	arrays.ArrayDeclaration()
+
 }
